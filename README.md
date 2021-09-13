@@ -17,6 +17,14 @@ For this project I build a web application on Django and integrate it with my tr
 8-Numpy 
 9-Pandas 
 10-matplotlib
- 
+
+# Data Set 
+We have total 18000 fingers dataset and we split it into validation or train dataset with ¼ ratio, and we resize these all images into (224,224) dimensions. 
+
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
 
 
