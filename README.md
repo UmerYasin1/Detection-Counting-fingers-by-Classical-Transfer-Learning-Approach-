@@ -22,5 +22,7 @@ For this project I build a web application on Django and integrate it with my tr
 # Data Set 
 We have total 18000 fingers dataset and we split it into validation or train dataset with ¼ ratio, and we resize these all images into (224,224) dimensions. 
 
+![alt text](https://github.com/UmerYasin1/Detection-Counting-fingers-by-Classical-Transfer-Learning-Approach-/blob/1fbf086650b7442b510db7536344af7f86aa5f36/download.png?raw=true)
+
 
 
