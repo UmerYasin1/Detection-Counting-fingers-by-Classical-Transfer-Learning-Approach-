@@ -7,24 +7,20 @@ Train a model on Fingers dataset to classify or detect them and prompt or massag
 For this project I build a web application on Django and integrate it with my train model develop on pretrained neural network VGG19 TensorFlow and after training use my  trained weights (.h5) into a function in my backend (Views.py) file and build a user interface with the help of boostrap4. 
 
 # Functional Approach 
-1-TensorFlow 
-2-Keras 
-3-Python 
-4-Django 
-5-Sqlite3 
-6-Html / CSS / Bootstrap4 
-7-sklearn  
-8-Numpy 
-9-Pandas 
-10-matplotlib
+<ol>
+<li>TensorFlow</li>
+<li>Keras</li>
+<li>Python </li>
+<li>Django</li>
+<li>Sqlite3</li>
+<li>Html / CSS / Bootstrap4</li>
+<li>Numpy</li>
+<li>Pandas</li>  
+<li>matplotlib</li>  
+</ol>
 
 # Data Set 
 We have total 18000 fingers dataset and we split it into validation or train dataset with ¼ ratio, and we resize these all images into (224,224) dimensions. 
 
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
 
 
